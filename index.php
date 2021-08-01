@@ -7,6 +7,7 @@
     height: 100vh;
   }
 .typewriter h1 {
+  font-family: sans-serif;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
