@@ -4,12 +4,12 @@ $b = $_POST['title'];
 $c = $_POST['extension'];
 if ($empty($a)) {
     $d = "https://www.google.com/search?q=$b filetype:$c"
-    header("location: $d");
+  echo '<script>window.location = "'. $d .'"</script>';
 
 } else {
 
     $e = "https://www.google.com/search?q=$b filetype:$c site:$c"
-    header("location: $e");
+    echo '<script>window.location = "'. $e .'"</script>';
 }
 
 >
