@@ -155,5 +155,6 @@
 </div>
 </form>
 <div class="typewriter">
-  <center><font color="white"><h1>Download versi android dan desktop di telegram @RasiTechChannel.</h1></font></center>
+  <center><font color="white"><h1>Download versi android</h1></font></center>
+  <center><font color="white"><h1>dan desktop di telegram @RasiTechChannel.</h1></font></center>
 </div>
