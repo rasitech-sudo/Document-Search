@@ -154,7 +154,7 @@
   <button type="submit" class="submit">Search</button>
 </div>
 </form>
-&#160;&#160;<div class="typewriter">
+<br></br><br></br><div class="typewriter">
   <center><font color="white"><h1>Download versi Android</h1></font></center>
   <center><font color="white"><h1>dan Desktop di Telegram</h1></font></center>
   <center><font color="white"><h1>@RasiTechChannel.</h1></font></center>
