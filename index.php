@@ -108,23 +108,25 @@
     background-color: #06b;
   }
 </style>
-<div class="form" action="/post.php" method="post">
+<form action="post.php" method="post">
+<div class="form">
   <div class="title">Document Search</div>
   <div class="subtitle">Created By Rasi Tech</div>
   <div class="input-container ic1">
-    <input id="title" class="input" type="text" placeholder=" " />
+    <input name="title" class="input" type="text" placeholder=" " />
     <div class="cut"></div>
     <label for="title" class="placeholder">Title</label>
   </div>
   <div class="input-container ic2">
-    <input id="extension" class="input" type="text" placeholder=" " />
+    <input name="extension" class="input" type="text" placeholder=" " />
     <div class="cut"></div>
     <label for="extension" class="placeholder">Extension</label>
   </div>
   <div class="input-container ic2">
-    <input id="domain" class="input" type="text" placeholder=" " />
+    <input name="domain" class="input" type="text" placeholder=" " />
     <div class="cut cut-short"></div>
     <label for="domain" class="placeholder">Domain (Optional)</label>
   </div>
-  <input type="submit" value="Search" class="submit" />
+  <button type="submit" class="submit">Search</button>
 </div>
+</form>
