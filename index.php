@@ -142,5 +142,5 @@
     <div class="cut cut-short"></div>
     <label for="domain" class="placeholder">Domain (Optional)</label>
   </div>
-  <button type="text" class="submit">Search</button>
+  <button type="submit" class="submit">Search</button>
 </div>
