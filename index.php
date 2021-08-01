@@ -622,5 +622,5 @@ h1 {
 </div>
 </form>
 <div class="main-div main-div1">
-      <button>Enjoy</button>
+      <button class="submit">Enjoy</button>
     </div>
