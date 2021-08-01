@@ -1,4 +1,4 @@
-# Document Search
+## Document Search
 
-[ ✔ ] Search by domain
-[ ❌ ] Search by extension
+- [x] Search by extension
+- [x] Search by domain
