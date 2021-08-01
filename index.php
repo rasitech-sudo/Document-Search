@@ -108,6 +108,8 @@
     background-color: #06b;
   }
 </style>
+
+<!-- Tambahkan tag form pada HTML -->
 <form action="post.php" method="post">
 <div class="form">
   <div class="title">Document Search</div>
