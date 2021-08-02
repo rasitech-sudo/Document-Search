@@ -6,6 +6,6 @@ if (empty($a)) {
     $d = "https://www.google.com/search?q=$b filetype:$c";
   echo '<script>window.location = "'. $d .'"</script>';
 } else {
-    $e = "https://www.google.com/search?q=$b filetype:$c site:$c";
+    $e = "https://www.google.com/search?q=$b filetype:$c site:$a";
     echo '<script>window.location = "'. $e .'"</script>';
 }
